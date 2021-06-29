@@ -1,0 +1,15 @@
+{
+    "name": "hp/gestion-etudiants",
+    "authors": [
+        {
+            "name": "Stephane AKOLATSE",
+            "email": "komla.akolatse@ism.edu.sn"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {"Gestion\\": "."}
+    },
+
+    "require": {}
+}
